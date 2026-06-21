@@ -1,11 +1,11 @@
-# yabred/homebrew
+# yabred/homebrew-tap
 
 Personal Homebrew tap for macOS apps by [yabred](https://github.com/yabred).
 
 ## Setup
 
 ```bash
-brew tap yabred/homebrew
+brew tap yabred/tap
 ```
 
 ## Apps
